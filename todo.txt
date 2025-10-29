@@ -1,1 +1,20 @@
+enter code
 
+menu
+- continue game
+- new game
+- martial arcade
+
+new game
+- select dojo name
+- select uniform
+- select fighters
+
+dashboard
+- tournament
+- dojo showdown
+- training
+- squad
+
+squad
+- trade
